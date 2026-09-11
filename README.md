@@ -1,7 +1,7 @@
-# capture_price
+# capture_price2026
 
-Home pública das coletas de preço GF2026.
+Home publica das coletas de preco GF2026.
 
-O robô roda em `Fastshop-BR/Robot-captura-preco-2025` e publica o Allure neste repositório.
+O robo roda em Fastshop-BR/Robot-captura-preco-2025 e publica o Allure neste repositorio.
 
-Site: https://fellpzns.github.io/capture_price/
+Site: https://fastshop-gf2026.github.io/capture_price2026/
